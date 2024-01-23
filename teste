@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Roteiro Rural - O nosso trabalho</title>
+    <style>
+        body {
+            font-family: garamond;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        .header {
+            background-color: #f0f0f0;
+            padding: 30px;
+        }
+        .header h1 {
+            margin: 0;
+		}
+        .header h2 {
+            margin: 0;
+        }
+        .subtitle {
+            color: #777;
+            font-size: 15px;
+        }
+        .intro {
+            margin: 20px 0;
+            font-size: 18px;
+        }
+        .image-container {
+            margin: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+		<h1>Roteiro Rural</h1>
+		    <div class="image-container">
+        <img src="C:\Users\FSDSOUSA\OneDrive - Brisa\Desktop\Europeia\Pesquisa digital aplicada\RR.jpg" alt="Imagem do Roteiro Rural">
+    </div>
+        <h2>Descubra a Essência do Turismo Rural Personalizado</h2>
+        <p class="subtitle">Exclusivo - Rural - Natureza - Circuito - Turismo - Roteiro – Experiência – Vinícolas - Gastronomia </p>
+    </div>
+    <div class="intro">
+        <p>Podemos não ser o melhor grupo mas seremos certamente inesquecíveis, negócio de papamecas e perucas não devem existir em todas as pós graduações</p>
+    </div>
+	<a href="C:\Users\FSDSOUSA\OneDrive - Brisa\Desktop\Europeia\Pesquisa digital aplicada\pagina2.html" target="_blank">Veja os nossos paragrafos</a>
+	</div>
+	<p>
+	<a href=https://blog.kuantokusta.pt/melhores-vinhos-portugueses/" target="_blank"> Os nossos vinhos"</a>
+
+
+</body>
+</html>
